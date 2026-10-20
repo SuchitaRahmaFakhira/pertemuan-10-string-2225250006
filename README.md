@@ -1,6 +1,6 @@
 # Pertemuan 10 - String dan Pengolahan Teks
 
-Nama: Alfitrah Zahra Ameliya
+Nama: Suchita Rahma Fakhira
 NIM: 2225250181
 Kelas: 3B
 
